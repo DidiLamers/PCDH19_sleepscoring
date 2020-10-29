@@ -6,7 +6,7 @@ It also contains my attempts at analysing patient EEG data from the Meyer hospit
 
 ## Use in PCDH19 project
 The main program, SleepScore_mainscript.m, was used to perform sleep scoring of mouse EEG data, measured with the Pinnacle setup. 
-Additionally, I used to script event_in_sleepphase.m to find whether detected beta oscillation in the EEG recordings (as detected with ZebraExplore) occurred
+Additionally, I used the script event_in_sleepphase.m to find whether detected beta oscillations in the EEG recordings (as detected with ZebraExplore) occurred
 in NREM sleep episodes. 
 
 ## Usage
